@@ -15,3 +15,5 @@ mike - Sends the Mike Wasquadron meme
 
 ## Hosting
 The bot is currently hosted on [Replit](https://replit.com/). It's free to run code on replit but it's really annoying. You share an IP with lots of other applications. If someone gets IP banned by discord, all bots on the same IP stop running. A quickfix is to run the command 'kill 1' in the shell. This gives you a different IP.
+
+<!--comment-->
